@@ -1,6 +1,0 @@
-[build]
-  functions = "functions"
-  publish = "static"
-
-[dev]
-  command = "python3 app.py"
